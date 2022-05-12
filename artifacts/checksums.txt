@@ -1,0 +1,1 @@
+dc163b0561895acf939b3b4ec48e9ea7e53986e2d9377fac0531e912bf2bfaf5  outlet_bond.wasm

@@ -1,0 +1,1 @@
+881d8491b131a14533c0921f2824d9756b666c902d426816bb1203cc696a1e17  target/wasm32-unknown-unknown/release/outlet_bond.wasm
